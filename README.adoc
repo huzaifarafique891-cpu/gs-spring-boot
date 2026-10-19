@@ -1,4 +1,4 @@
-ds ojds:spring_boot_version: current
+lknfeds ojds:spring_boot_version: current
 :spring-boot: https://github.com/spring-projects/spring-boot
 :toc:
 :icons: font
